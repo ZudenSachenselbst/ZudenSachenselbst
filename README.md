@@ -36,7 +36,9 @@ Shinjuku-ku, Tokyo, Japan
 Apr 2018 - Apr 2021 · 3 yrs 1 mo
 
 
-### output(web services I took part in ) 
+### output
+
+#### web services
 
 https://www.sbcr.jp/
 
@@ -49,19 +51,21 @@ Toshiba Digital Solutions Co.
 Apr 2010 - Mar 2018 · 8 yrs
 Fuchu-shi, Tokyo, Japan
 
-### output (research paper)
+### output 
+
+(research paper)
 
 [cmp-lg/9411023] Abstract Generation based on Rhetorical Structure Extraction https://arxiv.org/abs/cmp-lg/9411023
 
 Automatic Refinement of a POS Tagger Using a Reliable Parser and Plain Text Corpora https://aclanthology.org/C00-1046.pdf
 
-## output(patent)
+(patent)
 
 特開2002-259374　 翻訳装置、翻訳方法及び翻訳プログラム　他
 https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2002-259374/0B9F21572B9FFB2D98D98A4A3FCA9652C5151772B407803954C2F92FF9F67E30/11/ja
 
 
-### output(web service) 
+(web service) 
 
 Machine Translation service: https://www.toshiba-sol.co.jp/pro/hon_yaku/seihin/server/prodinfo/index_j.htm
 
