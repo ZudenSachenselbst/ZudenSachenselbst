@@ -27,7 +27,6 @@ Apr 2018 - Apr 2021 · 3 yrs 1 mo
 
 ### output(web services I took part in ) 
 
-web services I 
 https://www.sbcr.jp/
 
 https://www.elavel-club.com/mbs/
