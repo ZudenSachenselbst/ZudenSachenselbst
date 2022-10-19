@@ -29,7 +29,7 @@ Python, Perl, Java(SpringBoot), Javascript(node.js), Jupyter Notebook
 # Career
 
 
-## IT Consultant & Research And Development Specialist
+## IT Consultant, R&D Specialist
 
 Forcia Co.
 Shinjuku-ku, Tokyo, Japan
