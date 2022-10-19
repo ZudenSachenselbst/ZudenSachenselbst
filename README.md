@@ -53,7 +53,7 @@ Fuchu-shi, Tokyo, Japan
 
 ### output 
 
-#### research paper
+#### research paper(english)
 
 [cmp-lg/9411023] Abstract Generation based on Rhetorical Structure Extraction https://arxiv.org/abs/cmp-lg/9411023
 
@@ -72,7 +72,7 @@ Machine Translation service: https://www.toshiba-sol.co.jp/pro/hon_yaku/seihin/s
 
 
 
-# other otuputs ( articles ) 
+# other otuputs ( Japanese articles ) 
 
 Elasticsearch vs. PostgreSQL│FORCIA CUBE│フォルシア株式会社 https://www.forcia.com/blog/001551.html
 
