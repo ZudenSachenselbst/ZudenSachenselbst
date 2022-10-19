@@ -48,8 +48,8 @@ https://www.elavel-club.com/mbs/
 ## Senior Software Development Engineer
 
 Toshiba Digital Solutions Co.
-Apr 2010 - Mar 2018 · 8 yrs
 Fuchu-shi, Tokyo, Japan
+Apr 2010 - Mar 2018 · 8 yrs
 
 ### output 
 
