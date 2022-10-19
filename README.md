@@ -23,7 +23,7 @@
 
 # Preferable Development Language: 
 
-Python, Perl, Java(SpringBoot), Javascript(node.js), Jupyter Notebook
+C/C++, Python, Perl, Java(SpringBoot), Javascript(node.js), Jupyter Notebook
 
 
 # Career
