@@ -17,7 +17,7 @@
 - TOEIC　860点
 - codeIQ エンジニア実力判定　Sランク認定
 - paiza  実力判定　Sランク認定
-- 米国ゲームAIコンテスト codingame.com  tron battle ゴールドリーグランカー（日本人で15位)
+- 米国ゲームAIコンテスト [codingame.com  tron battle](https://www.codingame.com/multiplayer/bot-programming/line-racing) ゴールドリーグランカー（日本人で15位)
 
 
 
