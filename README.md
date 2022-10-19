@@ -32,7 +32,6 @@ https://www.sbcr.jp/
 https://www.elavel-club.com/mbs/
 
 
-
 ## Senior Software Development Engineer
 
 Toshiba Digital Solutions Co.
@@ -48,5 +47,18 @@ Automatic Refinement of a POS Tagger Using a Reliable Parser and Plain Text Corp
 ### output(web service) 
 
 Machine Translation service: https://www.toshiba-sol.co.jp/pro/hon_yaku/seihin/server/prodinfo/index_j.htm
+
+
+
+
+# other otuputs ( articles ) 
+
+Elasticsearch vs. PostgreSQL│FORCIA CUBE│フォルシア株式会社 https://www.forcia.com/blog/001551.html
+
+昭和のAIスキルでどこまで立ち向かえるのか　対戦型ゲームAIコンテスト奮闘記│FORCIA CUBE│フォルシア株式会社 https://www.forcia.com/blog/001180.html
+
+スマホからメールでウェブ予約するシステムをRPA(selenium)で１日で作った話 - fumi-hana-momoの日記 https://fumi-hana-momo.hatenablog.com/entry/2022/10/16/140415?_ga=2.123748936.398672677.1666195521-1269741343.1665743951
+
+
 
 
