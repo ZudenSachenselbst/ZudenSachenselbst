@@ -20,7 +20,7 @@ Python, Perl, Java(SpringBoot), Javascript(node.js), Jupyter Notebook
 
 ## IT Consultant & Research And Development Specialist
 
-Forcia · PermanentForcia · Permanent
+Forcia Co.
 Shinjuku-ku, Tokyo, Japan
 Apr 2018 - Apr 2021 · 3 yrs 1 mo
 
@@ -35,7 +35,7 @@ https://www.elavel-club.com/mbs/
 
 ## Senior Software Development Engineer
 
-Toshiba Digital Solutions Co. · Permanent
+Toshiba Digital Solutions Co.
 Apr 2010 - Mar 2018 · 8 yrs
 Fuchu-shi, Tokyo, Japan
 
