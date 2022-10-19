@@ -4,7 +4,7 @@
 - Age:59
 - more than 30+ years in R&D career in Japanese major IT company 
 - R&D areas: Data Science, especially Natural Language Processing( Machine Translation, etc.) 
-- good at communicating in English and Japanese. (TOEIC 960 score)
+- good at communicating in English and Japanese. (TOEIC 60 score)
 
 
 ■自己PR
