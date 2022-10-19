@@ -1,13 +1,22 @@
 
-
-
-
 # overview
 - Japanese AI Research and development Engineer
 - Age:59
 - more than 30+ years in R&D career in Japanese major IT company 
 - R&D areas: Data Science, especially Natural Language Processing( Machine Translation, etc.) 
 - good at communicating in English and Japanese. (TOEIC 960 score)
+
+
+■自己PR
+・AI 技術(機械翻訳技術、自然言語処理)の基礎研究から製品化、保守、運用までの幅広い経験開発
+・パッケージソフト、ソリューション、クラウドサービスクラウドサービス開発
+・開発担当、プロジェクトリーダー、運用、オフショア管理(ブリッジSE) を幅広く経験開発リーダとしてサービス全体の開発を主導した
+■その他 
+・TOEIC　860点
+・codeIQ エンジニア実力判定　Sランク認定
+・paiza  実力判定　Sランク認定
+・米国ゲームAIコンテスト codingame.com  tron battle ゴールドリーグランカー（日本人で15位)
+
 
 
 # Preferable Development Language: 
