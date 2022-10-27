@@ -58,6 +58,8 @@ Apr 2010 - Mar 2018 · 8 yrs
 
 [cmp-lg/9411023] Abstract Generation based on Rhetorical Structure Extraction https://arxiv.org/abs/cmp-lg/9411023
 
+Translation of news headlines - ACL Anthology https://aclanthology.org/2003.mtsummit-papers.38/
+
 Automatic Refinement of a POS Tagger Using a Reliable Parser and Plain Text Corpora https://aclanthology.org/C00-1046.pdf
 
 #### patent
