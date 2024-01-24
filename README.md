@@ -1,7 +1,7 @@
 
 # overview
 - Japanese AI Research and development Engineer
-- Age:59
+- Age:60
 - more than 30+ years in R&D career in Japanese major IT company 
 - R&D areas: Data Science, especially Natural Language Processing( Machine Translation, etc.) 
 - good at communicating in English and Japanese. ([TOEIC](https://en.wikipedia.org/wiki/TOEIC) 860 score)
