@@ -1,7 +1,7 @@
 
 # overview
 - Japanese AI Research and development Engineer
-- Age:60
+- Age:62( 1963b)
 - more than 30+ years in R&D career in Japanese major IT company 
 - R&D areas: Data Science, especially Natural Language Processing( Machine Translation, etc.) 
 - good at communicating in English and Japanese. ([TOEIC](https://en.wikipedia.org/wiki/TOEIC) 860 score)
@@ -37,14 +37,15 @@ Shinjuku-ku, Tokyo, Japan
 Apr 2018 - Apr 2021 · 3 yrs 1 mo
 
 
-### output
+## output
 
-#### web services
+### web services
 
 https://www.sbcr.jp/
 
 https://www.elavel-club.com/mbs/
 
+Machine Translation service: ~https://www.toshiba-sol.co.jp/pro/hon_yaku/seihin/server/prodinfo/index_j.htm~
 
 ## Senior Software Development Engineer
 
@@ -66,13 +67,6 @@ Automatic Refinement of a POS Tagger Using a Reliable Parser and Plain Text Corp
 
 特開2002-259374　 翻訳装置、翻訳方法及び翻訳プログラム　他
 https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2002-259374/0B9F21572B9FFB2D98D98A4A3FCA9652C5151772B407803954C2F92FF9F67E30/11/ja
-
-
-#### web service
-
-Machine Translation service: https://www.toshiba-sol.co.jp/pro/hon_yaku/seihin/server/prodinfo/index_j.htm
-
-
 
 
 # other otuputs ( Japanese articles ) 
